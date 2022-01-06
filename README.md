@@ -29,3 +29,6 @@
 ## 环境
 
 需要`bert4keras >= 0.10.6`。个人实验环境是tensorflow 1.14 + keras 2.3.1 + bert4keras 0.10.6。
+
+## 联系
+如有问题，请联系 刘云峰 glenliu@wezhuiyi.com
